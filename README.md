@@ -3,4 +3,4 @@
 自分のリポジトリで更新
 Modify on 'rebase-practice' branch (for rebase conflict)
 For rebase pull
-stash (tracked)
+stash (2nd)
